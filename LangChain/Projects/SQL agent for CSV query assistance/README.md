@@ -2,7 +2,7 @@
 
 A powerful Streamlit application that allows you to upload CSV files and query your data using natural language questions.  Powered by Google's Gemini AI and LangChain, this app converts your questions into SQL queries and returns intelligent answers about your data.
 
-![CSV Query Assistant Screenshot](![image1](image1))
+![CSV Query Assistant Screenshot](screenshot.png)
 
 ## ✨ Features
 
